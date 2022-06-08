@@ -6,10 +6,13 @@ Neste	 projeto,	 criamos um	 aplicativo	 que   permite	 o	 usuário	 converter	 
 
 O	usuário	poderá	informar	um	valor	em	real,	dólar	ou	euro	e automaticamente	o	aplicativo	vai	buscar	via	uma	API	os	dados	do câmbio	 das	 três	 moedas	 e	 atualizar	 as	 duas	 outras	 de	 maneira	 a haver	 equivalência	 dos	 valores.	 A	 imagem	 a	 seguir	 demonstra como ficou o projeto
 
+<div>
 <img src=".github/convert1.png" alt="Podcast Dio" height="350" width="150">
 <img src=".github/convert2.png" alt="Podcast Dio" height="350" width="150">
 <img src=".github/convert3.png" alt="Podcast Dio" height="350" width="150">
 <img src=".github/convert4.png" alt="Podcast Dio" height="350" width="150">
+</div>
+
 <img src=".github/convert5.gif" alt="Podcast Dio" height="350" width="150">
 
 #### ARTIGOS RELACIONADOS
